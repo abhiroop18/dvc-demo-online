@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\abhir\AppData\Local\Temp\abhiroopstorage
